@@ -1,65 +1,66 @@
-%% µÚ25ÕÂ ÓÐµ¼Ê¦Ñ§Ï°Éñ¾­ÍøÂçµÄ»Ø¹éÄâºÏ¡ª¡ª»ùÓÚ½üºìÍâ¹âÆ×µÄÆûÓÍÐÁÍéÖµÔ¤²â
+%%!ï¿½ï¿½25ï¿½ï¿½ ï¿½Ðµï¿½Ê¦Ñ§Ï°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä»Ø¹ï¿½ï¿½ï¿½Ï¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×µï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÖµÔ¤ï¿½ï¿½
 % <html>
-% <table border="0" width="600px" id="table1">	<tr>		<td><b><font size="2">¸Ã°¸Àý×÷ÕßÉêÃ÷£º</font></b></td>	</tr>	<tr><td><span class="comment"><font size="2">1£º±¾ÈË³¤ÆÚ×¤ÔúÔÚ´Ë<a target="_blank" href="http://www.matlabsky.com/forum-78-1.html"><font color="#0000FF">°å¿é</font></a>Àï£¬¶Ô¸Ã°¸ÀýÌáÎÊ£¬×öµ½ÓÐÎÊ±Ø´ð¡£</font></span></td></tr><tr>	<td><span class="comment"><font size="2">2</font><font size="2">£º´Ë°¸ÀýÓÐÅäÌ×µÄ½ÌÑ§ÊÓÆµ£¬ÊÓÆµÏÂÔØÇëµã»÷<a href="http://www.matlabsky.com/forum-91-1.html">http://www.matlabsky.com/forum-91-1.html</a></font><font size="2">¡£ </font></span></td>	</tr>			<tr>		<td><span class="comment"><font size="2">		3£º´Ë°¸ÀýÎªÔ­´´°¸Àý£¬×ªÔØÇë×¢Ã÷³ö´¦£¨¡¶MATLABÖÇÄÜËã·¨30¸ö°¸Àý·ÖÎö¡·£©¡£</font></span></td>	</tr>		<tr>		<td><span class="comment"><font size="2">		4£ºÈô´Ë°¸ÀýÅöÇÉÓëÄúµÄÑÐ¾¿ÓÐ¹ØÁª£¬ÎÒÃÇ»¶Ó­ÄúÌáÒâ¼û£¬ÒªÇóµÈ£¬ÎÒÃÇ¿¼ÂÇºó¿ÉÒÔ¼ÓÔÚ°¸ÀýÀï¡£</font></span></td>	</tr>	<tr>		<td><span class="comment"><font size="2">		5£ºÒÔÏÂÄÚÈÝÎª³õ¸å£¬ÓëÊµ¼Ê·¢ÐÐµÄÊé¼®ÄÚÈÝÂÔÓÐ³öÈë£¬ÇëÒÔÊé¼®ÖÐµÄÄÚÈÝÎª×¼¡£</font></span></td>	</tr>	</table>
+% <table border="0" width="600px" id="table1">	<tr>		<td><b><font size="2">ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</font></b></td>	</tr>	<tr><td><span class="comment"><font size="2">1ï¿½ï¿½ï¿½ï¿½ï¿½Ë³ï¿½ï¿½ï¿½×¤ï¿½ï¿½ï¿½Ú´ï¿½<a target="_blank" href="http://www.matlabsky.com/forum-78-1.html"><font color=" 0000FF">ï¿½ï¿½ï¿½</font></a>ï¿½ï£¬ï¿½Ô¸Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±Ø´ï¿½</font></span></td></tr><tr>	<td><span class="comment"><font size="2">2</font><font size="2">ï¿½ï¿½ï¿½Ë°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×µÄ½ï¿½Ñ§ï¿½ï¿½Æµï¿½ï¿½ï¿½ï¿½Æµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<a href="http://www.matlabsky.com/forum-91-1.html">http://www.matlabsky.com/forum-91-1.html</a></font><font size="2">ï¿½ï¿½ </font></span></td>	</tr>			<tr>		<td><span class="comment"><font size="2">		3ï¿½ï¿½ï¿½Ë°ï¿½ï¿½ï¿½ÎªÔ­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½ï¿½ï¿½×¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½MATLABï¿½ï¿½ï¿½ï¿½ï¿½ã·¨30ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</font></span></td>	</tr>		<tr>		<td><span class="comment"><font size="2">		4ï¿½ï¿½ï¿½ï¿½ï¿½Ë°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¾ï¿½ï¿½Ð¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç»ï¿½Ó­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½È£ï¿½ï¿½ï¿½ï¿½Ç¿ï¿½ï¿½Çºï¿½ï¿½ï¿½Ô¼ï¿½ï¿½Ú°ï¿½ï¿½ï¿½ï¿½ï¡£</font></span></td>	</tr>	<tr>		<td><span class="comment"><font size="2">		5ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½ï¿½å£¬ï¿½ï¿½Êµï¿½Ê·ï¿½ï¿½Ðµï¿½ï¿½é¼®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð³ï¿½ï¿½ë£¬ï¿½ï¿½ï¿½ï¿½ï¿½é¼®ï¿½Ðµï¿½ï¿½ï¿½ï¿½ï¿½Îª×¼ï¿½ï¿½</font></span></td>	</tr>	</table>
 % </html>
 
-%% Çå¿Õ»·¾³±äÁ¿
+%% ï¿½ï¿½Õ»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 clear all
 clc
 
-%% ÑµÁ·¼¯/²âÊÔ¼¯²úÉú
+%% Ñµï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½
 load spectra_data.mat
-% Ëæ»ú²úÉúÑµÁ·¼¯ºÍ²âÊÔ¼¯
+% ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñµï¿½ï¿½ï¿½ï¿½ï¿½Í²ï¿½ï¿½Ô¼ï¿½
 temp = randperm(size(NIR,1));
-% ÑµÁ·¼¯¡ª¡ª50¸öÑù±¾
+% Ñµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½50ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 P_train = NIR(temp(1:50),:)';
 T_train = octane(temp(1:50),:)';
-% ²âÊÔ¼¯¡ª¡ª10¸öÑù±¾
+% ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½10ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 P_test = NIR(temp(51:end),:)';
 T_test = octane(temp(51:end),:)';
 N = size(P_test,2);
 
-%% BPÉñ¾­ÍøÂç´´½¨¡¢ÑµÁ·¼°·ÂÕæ²âÊÔ(R2014a)
+%% BPï¿½ï¿½ï¿½ï¿½ï¿½ç´´ï¿½ï¿½ï¿½ï¿½Ñµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(R2014a)
 
-% ´´½¨ÍøÂç
+% ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 net = feedforwardnet(9);
-% ÉèÖÃÑµÁ·²ÎÊý
+% ï¿½ï¿½ï¿½ï¿½Ñµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 net.trainParam.epochs = 1000;
 net.trainParam.goal = 1e-3;
 net.trainParam.lr = 0.01;
-% ÑµÁ·ÍøÂç
+% Ñµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 net = train(net,P_train,T_train);
-% ·ÂÕæ²âÊÔ
+% ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 T_sim_bp = net(P_test);
 
-%% RBFÉñ¾­ÍøÂç´´½¨¼°·ÂÕæ²âÊÔ
+%% RBFï¿½ï¿½ï¿½ï¿½ï¿½ç´´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-% ´´½¨ÍøÂç
+% ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 net = newrbe(P_train,T_train,0.3);
-% ·ÂÕæ²âÊÔ
+% ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 T_sim_rbf = sim(net,P_test);
 
-%% ÐÔÄÜÆÀ¼Û
+%% ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-% Ïà¶ÔÎó²îerror
+% ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½error
 error_bp = abs(T_sim_bp - T_test)./T_test;
 error_rbf = abs(T_sim_rbf - T_test)./T_test;
-% ¾ö¶¨ÏµÊýR^2
+% ï¿½ï¿½ï¿½ï¿½Ïµï¿½ï¿½R^2
 R2_bp = (N * sum(T_sim_bp .* T_test) - sum(T_sim_bp) * sum(T_test))^2 / ((N * sum((T_sim_bp).^2) - (sum(T_sim_bp))^2) * (N * sum((T_test).^2) - (sum(T_test))^2)); 
 R2_rbf = (N * sum(T_sim_rbf .* T_test) - sum(T_sim_rbf) * sum(T_test))^2 / ((N * sum((T_sim_rbf).^2) - (sum(T_sim_rbf))^2) * (N * sum((T_test).^2) - (sum(T_test))^2));
-% ½á¹û¶Ô±È
+% ï¿½ï¿½ï¿½ï¿½Ô±ï¿½
 result_bp = [T_test' T_sim_bp' T_sim_rbf' error_bp' error_rbf']
 
-%% »æÍ¼
+%% ï¿½ï¿½Í¼
 figure
 plot(1:N,T_test,'b:*',1:N,T_sim_bp,'r-o',1:N,T_sim_rbf,'k-.^')
-legend('ÕæÊµÖµ','BPÔ¤²âÖµ','RBFÔ¤²âÖµ')
-xlabel('Ô¤²âÑù±¾')
-ylabel('ÐÁÍéÖµ')
-string = {'²âÊÔ¼¯ÐÁÍéÖµº¬Á¿Ô¤²â½á¹û¶Ô±È(BP vs RBF)';['R^2=' num2str(R2_bp) '(BP)' '  R^2=' num2str(R2_rbf) '(RBF)']};
+legend('ï¿½ï¿½ÊµÖµ','BPÔ¤ï¿½ï¿½Öµ','RBFÔ¤ï¿½ï¿½Öµ')
+xlabel('Ô¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½')
+ylabel('ï¿½ï¿½ï¿½ï¿½Öµ')
+string = {'ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½Ô¤ï¿½ï¿½ï¿½ï¿½ï¿½Ô±ï¿½(BP vs RBF)';['R^2=' num2str(R2_bp) '(BP)' '  R^2=' num2str(R2_rbf) '(RBF)']};
 title(string)
 
 %%
 % <html>
-% <table width="656" align="left" >	<tr><td align="center"><p align="left"><font size="2">Ïà¹ØÂÛÌ³£º</font></p><p align="left"><font size="2">Matlab¼¼ÊõÂÛÌ³£º<a href="http://www.matlabsky.com">www.matlabsky.com</a></font></p><p align="left"><font size="2">M</font><font size="2">atlabº¯Êý°Ù¿Æ£º<a href="http://www.mfun.la">www.mfun.la</a></font></p></td>	</tr></table>
+% <table width="656" align="left" >	<tr><td align="center"><p align="left"><font size="2">ï¿½ï¿½ï¿½ï¿½ï¿½Ì³ï¿½ï¿½</font></p><p align="left"><font size="2">Matlabï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì³ï¿½ï¿½<a href="http://www.matlabsky.com">www.matlabsky.com</a></font></p><p align="left"><font size="2">M</font><font size="2">atlabï¿½ï¿½ï¿½ï¿½ï¿½Ù¿Æ£ï¿½<a href="http://www.mfun.la">www.mfun.la</a></font></p></td>	</tr></table>
 % </html>
+ 
